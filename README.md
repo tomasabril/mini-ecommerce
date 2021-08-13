@@ -1,6 +1,8 @@
 # mini-ecommerce
 
 ### Projeto utilizando dotnet core 5 dbfirst.
+#### github actions está configurado para rodar testes a cada push
+
 pasta "ecom" contem o projeto
 
 pasta "ecom.Tests" contem alguns testes
